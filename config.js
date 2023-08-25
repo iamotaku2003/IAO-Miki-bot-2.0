@@ -4,14 +4,14 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['5212411719888', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-  ['5212412377467', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-  ['5212412377467', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
+  ['5212411719888', '𝙾𝙵𝙲 IAO', true],
+  ['5212412377467', '𝙾𝙵𝙲 IAO', true],
+  ['5212412377467', '𝙾𝙵𝙲 IAO', true],
 ]
-global.suittag =['5212411719888']
+global.suittag =['593981981352']
 global.mods = []
-global.prems = ['5212411719888'], 
-global.prems = ['5212411719888'],
+global.prems = ['593981981352'], 
+global.prems = ['593981981352'],
 global.APIs = { 
 
   amel: 'https://melcanz.com',
@@ -63,7 +63,7 @@ global.APIKeys = {
 }
 
 global.packname = '𝐇𝐀𝐓𝐒𝐔𝐍𝐄 𝐌𝐈𝐊𝐔-𝐁𝐎𝐓'
-global.author = '©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍'
+global.author = '©ᴏғᴄ-IAO﹏✍'
 global.vs = '1.10.90'
 global.version = vs
 global.gt = '⫷᭄𝐇𝐀𝐓𝐒𝐔𝐍𝐄 𝐌𝐈𝐊𝐔-𝐁𝐎𝐓﹏✍'
@@ -95,7 +95,7 @@ global.envio = eeg
 global.eg = '*🍀ʀᴇsᴜʟᴛᴀᴅᴏ ᴇɴᴄᴏɴᴛʀᴀᴅᴏ✨*'
 global.exito = eg
 
-global.wm = '©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍\n⫷᭄𝐇𝐀𝐓𝐒𝐔𝐍𝐄 𝐌𝐈𝐊𝐔-𝐁𝐎𝐓﹏✍'
+global.wm = '©ᴏғᴄ-IAO﹏✍\n⫷᭄𝐇𝐀𝐓𝐒𝐔𝐍𝐄 𝐌𝐈𝐊𝐔-𝐁𝐎𝐓﹏✍'
 global.igfg = '⫷᭄𝐇𝐀𝐓𝐒𝐔𝐍𝐄 𝐌𝐈𝐊𝐔-𝐁𝐎𝐓﹏✍'
 global.wait = '⌛ _Cargando..._\n▰▰▰▱▱▱▱▱▱'
 
